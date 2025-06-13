@@ -1,0 +1,117 @@
+2025-06-13 07:19:02 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 07:19:02 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 07:19:02 INFO main: Initialized Google API services.
+2025-06-13 07:19:02 INFO main: DriveManager initialized.
+2025-06-13 07:19:10 INFO main: User selected menu option: 1
+2025-06-13 07:19:10 INFO main: Listed 1 files.
+2025-06-13 07:19:20 INFO main: User selected menu option: 2
+2025-06-13 07:19:29 INFO main: Attempting to add label 'Marketing' to file '1biY_KAA_Gv1PB7VGA4MbPf6T8vaPI-dgCKshY_Nzx5o'
+2025-06-13 07:19:29 WARNING googleapiclient.http: Encountered 403 Forbidden with reason "PERMISSION_DENIED"
+2025-06-13 07:19:29 ERROR main: Failed to add label 'Marketing' to file '1biY_KAA_Gv1PB7VGA4MbPf6T8vaPI-dgCKshY_Nzx5o'.
+2025-06-13 07:19:35 INFO main: User selected menu option: 4
+2025-06-13 07:19:35 INFO main: User exited the application.
+2025-06-13 07:42:30 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 07:42:30 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 07:42:30 INFO main: Initialized Google API services.
+2025-06-13 07:42:30 INFO main: DriveManager initialized.
+2025-06-13 07:42:34 INFO main: User selected menu option: 1
+2025-06-13 07:42:35 INFO main: Listed 1 files.
+2025-06-13 07:42:44 INFO main: User selected menu option: 2
+2025-06-13 07:42:51 INFO main: Attempting to add label 'marketing' to file '1biY_KAA_Gv1PB7VGA4MbPf6T8vaPI-dgCKshY_Nzx5o'
+2025-06-13 07:42:52 ERROR main: Failed to add label 'marketing' to file '1biY_KAA_Gv1PB7VGA4MbPf6T8vaPI-dgCKshY_Nzx5o'.
+2025-06-13 07:42:57 INFO main: User selected menu option: 4
+2025-06-13 07:42:57 INFO main: User exited the application.
+2025-06-13 07:43:32 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 07:43:32 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 07:43:32 INFO main: Initialized Google API services.
+2025-06-13 07:43:32 INFO main: DriveManager initialized.
+2025-06-13 07:43:38 INFO main: User selected menu option: 2
+2025-06-13 07:43:45 INFO main: Attempting to add label 'marketing' to file '1biY_KAA_Gv1PB7VGA4MbPf6T8vaPI-dgCKshY_Nzx5o'
+2025-06-13 07:43:46 ERROR main: Failed to add label 'marketing' to file '1biY_KAA_Gv1PB7VGA4MbPf6T8vaPI-dgCKshY_Nzx5o'.
+2025-06-13 07:43:49 INFO main: User selected menu option: 4
+2025-06-13 07:43:49 INFO main: User exited the application.
+2025-06-13 08:59:15 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 08:59:15 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 08:59:15 INFO main: Initialized Google API services.
+2025-06-13 08:59:15 INFO main: DriveManager initialized.
+2025-06-13 08:59:21 INFO main: User selected menu option: 1
+2025-06-13 08:59:21 INFO main: Listed 1 files.
+2025-06-13 08:59:29 INFO main: User selected menu option: 2
+2025-06-13 14:36:57 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 14:36:57 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 14:36:57 INFO main: Initialized Google API services.
+2025-06-13 14:36:57 INFO main: DriveManager initialized.
+2025-06-13 14:37:03 INFO main: User selected menu option: 1
+2025-06-13 14:37:03 INFO main: Listed 1 files.
+2025-06-13 15:00:24 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 15:00:24 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 15:00:24 INFO main: Initialized Google API services.
+2025-06-13 15:00:24 INFO main: DriveManager initialized.
+2025-06-13 15:00:29 INFO main: User selected menu option: 1
+2025-06-13 15:00:31 INFO main: Listed 1 files.
+2025-06-13 15:00:37 INFO main: User selected menu option: 2
+2025-06-13 15:00:57 INFO main: Attempting to add tag 'marketing' to file 'Q4 Engineering Blog Schedule'
+2025-06-13 15:00:57 ERROR main: Failed to add tag 'marketing' to file '1biY_KAA_Gv1PB7VGA4MbPf6T8vaPI-dgCKshY_Nzx5o'.
+2025-06-13 16:24:53 INFO main: User selected menu option: 2
+2025-06-13 16:25:01 INFO main: Attempting to add tag 'sales' to file 'Q4 Engineering Blog Schedule'
+2025-06-13 16:25:02 INFO main: Tag 'sales' added to file '1biY_KAA_Gv1PB7VGA4MbPf6T8vaPI-dgCKshY_Nzx5o'.
+2025-06-13 16:25:08 INFO main: User selected menu option: 1
+2025-06-13 16:25:08 INFO main: Listed 1 files.
+2025-06-13 16:28:41 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 16:28:41 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 16:28:41 INFO main: Initialized Google API services.
+2025-06-13 16:28:41 INFO main: DriveManager initialized.
+2025-06-13 16:28:47 INFO main: User selected menu option: 1
+2025-06-13 16:28:48 INFO main: Listed 1 files.
+2025-06-13 16:30:54 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 16:30:54 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 16:30:54 INFO main: Initialized Google API services.
+2025-06-13 16:30:54 INFO main: DriveManager initialized.
+2025-06-13 16:30:58 INFO main: User selected menu option: 1
+2025-06-13 16:30:58 INFO main: Listed 1 files.
+2025-06-13 16:31:49 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 16:31:49 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 16:31:49 INFO main: Initialized Google API services.
+2025-06-13 16:31:49 INFO main: DriveManager initialized.
+2025-06-13 16:31:51 INFO main: User selected menu option: 1
+2025-06-13 16:31:52 INFO main: Listed 1 files.
+2025-06-13 16:32:39 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 16:32:39 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 16:32:39 INFO main: Initialized Google API services.
+2025-06-13 16:32:39 INFO main: DriveManager initialized.
+2025-06-13 16:32:42 INFO main: User selected menu option: 1
+2025-06-13 16:32:43 INFO main: Listed 1 files.
+2025-06-13 16:33:10 WARNING main: Application interrupted by user (KeyboardInterrupt).
+2025-06-13 16:33:13 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 16:33:13 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 16:33:13 INFO main: Initialized Google API services.
+2025-06-13 16:33:13 INFO main: DriveManager initialized.
+2025-06-13 16:33:14 INFO main: User selected menu option: 1
+2025-06-13 16:33:15 INFO main: Listed 1 files.
+2025-06-13 16:33:22 INFO main: User selected menu option: 1
+2025-06-13 16:33:22 INFO main: Listed 1 files.
+2025-06-13 16:33:29 INFO main: User selected menu option: 4
+2025-06-13 16:33:32 ERROR main: Unexpected error: name 'console' is not defined
+Traceback (most recent call last):
+  File "/Users/michael.gray/Projects/drivelabels/main.py", line 102, in main
+    console.print("\nAvailable tags:")
+    ^^^^^^^
+NameError: name 'console' is not defined
+2025-06-13 16:33:57 INFO main: User selected menu option: 4
+2025-06-13 16:34:05 ERROR main: Unexpected error: name 'console' is not defined
+Traceback (most recent call last):
+  File "/Users/michael.gray/Projects/drivelabels/main.py", line 102, in main
+    console.print("\nAvailable tags:")
+    ^^^^^^^
+NameError: name 'console' is not defined
+2025-06-13 16:34:11 WARNING main: Application interrupted by user (KeyboardInterrupt).
+2025-06-13 16:35:11 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 16:35:11 INFO googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2025-06-13 16:35:11 INFO main: Initialized Google API services.
+2025-06-13 16:35:11 INFO main: DriveManager initialized.
+2025-06-13 16:35:18 INFO main: User selected menu option: 4
+2025-06-13 16:35:24 INFO main: Attempting to remove tag 'sales' from file 'Q4 Engineering Blog Schedule'
+2025-06-13 16:35:25 INFO main: Tag 'sales' removed from file '1biY_KAA_Gv1PB7VGA4MbPf6T8vaPI-dgCKshY_Nzx5o'.
+2025-06-13 16:35:29 INFO main: User selected menu option: 1
+2025-06-13 16:35:29 INFO main: Listed 1 files.
+2025-06-13 16:36:05 WARNING main: Application interrupted by user (KeyboardInterrupt).
